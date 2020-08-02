@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsnowcuphea)](https://hits.seeyoufarm.com)
 
-[![snowcuphea's github stats](https://github-readme-stats.vercel.app/api?username=snowcuphea)](https://github.com/snowcuphea)
+[![snowcuphea's github stats](https://github-readme-stats.vercel.app/api?username=snowcupheaa&show_icons=true&theme=radical)](https://github.com/snowcuphea)
 
 <!--
 **snowcuphea/snowcuphea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
